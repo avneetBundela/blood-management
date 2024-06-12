@@ -1,0 +1,35 @@
+.contact-us-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .contact-details {
+    flex: 1;
+    max-width: 600px;
+  }
+  
+  .contact-details h1 {
+    color: #e74c3c;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .social-media-links {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .social-media-links img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  

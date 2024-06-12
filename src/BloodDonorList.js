@@ -1,5 +1,6 @@
 import React, { useState,useEffect }  from 'react';
 import axios from 'axios';
+import Navbar from './Navbar';
 function BloodDonorList(){
   const [donors,setDonors]=useState([]);
   const[editedDonor,setEditedDonor]=useState({
@@ -62,6 +63,7 @@ console.log(`Deleted donor with Id:${id}`);
 } 
     return(
       <div>
+        <Navbar/>
         <h2>Blood Donor List</h2>
         <table className='donor-table'>
           <thead>
