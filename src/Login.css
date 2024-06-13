@@ -15,7 +15,7 @@
 }
 
 h2 {
-  color: #e74c3c;
+  color: #800000; 
 }
 
 .input-field {
@@ -27,7 +27,7 @@ h2 {
 }
 
 button {
-  background-color: #e74c3c;
+  background-color: #800000;
   color: white;
   padding: 10px 15px;
   border: none;
@@ -38,13 +38,17 @@ button {
 }
 
 button:hover {
-  background-color: #c0392b;
+  background-color: #660000; 
 }
 
 .error-message {
-  color: red;
+  color: #b30000;
+  background-color: #fdecea; 
+  border: 1px solid #f5c6cb;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
 }
-
 img {
   width: 50px;
   margin-bottom: 20px;

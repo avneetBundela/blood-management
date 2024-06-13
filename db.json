@@ -1,5 +1,17 @@
 {
-  "bloodDonors": [],
+  "bloodDonors": [
+    {
+      "id": "3042",
+      "name": "vgvhbj",
+      "bloodGroup": "B-",
+      "gender": "Male",
+      "address": "vgvhb",
+      "city": "bjbk",
+      "state": "hj",
+      "disease": "Asthma",
+      "mobileNumber": "2345678"
+    }
+  ],
   "registration": [
     {
       "id": "ebeb",
@@ -18,6 +30,30 @@
       "name": "Avneet Bundela",
       "email": "anjaliverma261999@gmail.com",
       "password": "@123"
+    },
+    {
+      "id": "4f43",
+      "name": "gungun",
+      "email": "gunu",
+      "password": "124"
+    },
+    {
+      "id": "5c68",
+      "name": "Avneet Bundela",
+      "email": "avneet",
+      "password": "2we"
+    },
+    {
+      "id": "01fd",
+      "name": "Avneet Bundela",
+      "email": "avneetbundela22@gmail.com",
+      "password": "124555"
+    },
+    {
+      "id": "635b",
+      "name": "wsdfgh",
+      "email": "fghj@gmail.com",
+      "password": "1345678"
     }
   ]
 }

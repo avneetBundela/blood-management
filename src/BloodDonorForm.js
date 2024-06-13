@@ -65,14 +65,15 @@ function BloodDonorForm() {
                 <option value="O+">O+</option>
                 <option value="O-">O-</option>
             </select>
-            <div>
-                <label>
-                    <input type='radio' name='gender' value='Male' checked={gender === 'Male'} onChange={() => setGender('Male')} /> Male
-                </label>
-                <label>
-                    <input type='radio' name='gender' value='Female' checked={gender === 'Female'} onChange={() => setGender('Female')} /> Female
-                </label>
-            </div>
+            <div className="gender-selection">
+                <label>Select gender</label>
+                  
+                        <input type='radio' name='gender' value='Male' checked={gender === 'Male'} onChange={() => setGender('Male')} /> Male
+                    
+                   
+                        <input type='radio' name='gender' value='Female' checked={gender === 'Female'} onChange={() => setGender('Female')} /> Female
+                
+                </div>
             <input type='text' name='address' value={address} onChange={(e) => setAddress(e.target.value)} placeholder='Address' />
             <input type='text' name='city' value={city} onChange={(e) => setCity(e.target.value)} placeholder='City' />
             <input type='text' name='state' value={state} onChange={(e) => setState(e.target.value)} placeholder='State' />

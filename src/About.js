@@ -1,8 +1,9 @@
 import React from 'react';
 import Navbar from './Navbar';
-// import aboutUsImage from './about_us_image.jpg'; // Use the name of your image here
+// import aboutUsImage from './about_us_image.jpg'; // Replace with your actual image import
 
 import './About.css';
+
 const AboutUs = () => {
   return (
     <div>
@@ -10,12 +11,15 @@ const AboutUs = () => {
       <div className="about-us-container">
         <div className="about-us-content">
           <h1>About Us</h1>
-          <p>We are an application that directly connects you with individuals who are in need of blood donation and may not be readily available in your community.</p>
-          <p>Our story here will intrigue you:</p>
-          <p>"My uncle urgently needed a blood transfusion, but no blood was available at the local blood bank. However, he had diabetes and had four units of blood in his body. Since we couldn't call everyone in the middle of the night, we did what we could. Not everyone checks their phones at midnight; they mostly do so in the morning. So with this application, a person can directly call the interested individual who has registered, making it easier due to having all the information like city address available."</p>
-        </div>
+          <p>
+            We are an application that directly connects you with individuals who are in need of blood donation and may not be readily available in your community.
+          </p>
+          <p>Our story:</p>
+          <p>
+          "We are dedicated to revolutionizing blood donation and distribution through cutting-edge technology. Our platform connects donors with patients in need, ensuring timely access to life-saving blood products."          </p>
+     <p>"At BMS, we aim to bridge the gap between blood donors and recipients by providing a seamless and efficient platform. Our mission is to save lives by making blood donation accessible, reliable, and responsive to the urgent needs of patients worldwide."</p>   </div>
         <div className="about-us-image">
-          <img src="" alt="About Us" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurjb8OAe64uvJYoC0zTw4vq0eOxN-knqiGA&s" alt="About Us" className='image'/>
         </div>
       </div>
     </div>

@@ -44,8 +44,8 @@ setDonors(donors.filter(donor=>donor.id!==id));
             </ul> */}
              <div className="quote-container">
         <div className="quote">
-          <h1>Welcome to Our Website</h1>
-          <p>Discover the beauty of simplicity.</p>
+          {/* <h1>Welcome to Our Website</h1>
+          <p>Discover the beauty of simplicity.</p> */}
         </div>
       </div>
         </div>
