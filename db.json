@@ -2,14 +2,80 @@
   "bloodDonors": [
     {
       "id": "3042",
-      "name": "vgvhbj",
+      "name": "Aditi Verma",
       "bloodGroup": "B-",
       "gender": "Male",
       "address": "vgvhb",
       "city": "bjbk",
       "state": "hj",
-      "disease": "Asthma",
+      "disease": "none",
       "mobileNumber": "2345678"
+    },
+    {
+      "id": "46bf",
+      "name": "Avneet Bundela",
+      "bloodGroup": "B+",
+      "gender": "Male",
+      "address": "Airport road",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "disease": "none",
+      "mobileNumber": "09826882763"
+    },
+    {
+      "id": "7ec8",
+      "name": "Navneet Bundela",
+      "bloodGroup": "B+",
+      "gender": "Male",
+      "address": "Airport road",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "disease": "none",
+      "mobileNumber": "7896754636"
+    },
+    {
+      "id": "64d8",
+      "name": "Anjali Verma",
+      "bloodGroup": "B+",
+      "gender": "Female",
+      "address": "Airport road",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "disease": "none",
+      "mobileNumber": "09826882763"
+    },
+    {
+      "id": "0dc3",
+      "name": "yash dasadia ",
+      "bloodGroup": "A+",
+      "gender": "Male",
+      "address": "nagar nigam",
+      "city": "ujjain",
+      "state": "Madhya Pradesh",
+      "disease": "",
+      "mobileNumber": "09826882763"
+    },
+    {
+      "id": "dfd8",
+      "name": "Rahul Verma ",
+      "bloodGroup": "B+",
+      "gender": "Male",
+      "address": "bavri gali",
+      "city": "maheshwar",
+      "state": "Madhya Pradesh",
+      "disease": "none",
+      "mobileNumber": "09826882763"
+    },
+    {
+      "id": "ac56",
+      "name": "praveen tripathi",
+      "bloodGroup": "AB-",
+      "gender": "Male",
+      "address": "anjani nagar",
+      "city": "bhopal",
+      "state": "Madhya Pradesh",
+      "disease": "none",
+      "mobileNumber": "000121212"
     }
   ],
   "registration": [
@@ -17,43 +83,7 @@
       "id": "ebeb",
       "name": "Anjali Verma",
       "email": "anjaliverma261999@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "9b15",
-      "name": "Anjali Verma",
-      "email": "anjaliverma261999@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "f4b1",
-      "name": "Avneet Bundela",
-      "email": "anjaliverma261999@gmail.com",
-      "password": "@123"
-    },
-    {
-      "id": "4f43",
-      "name": "gungun",
-      "email": "gunu",
-      "password": "124"
-    },
-    {
-      "id": "5c68",
-      "name": "Avneet Bundela",
-      "email": "avneet",
-      "password": "2we"
-    },
-    {
-      "id": "01fd",
-      "name": "Avneet Bundela",
-      "email": "avneetbundela22@gmail.com",
-      "password": "124555"
-    },
-    {
-      "id": "635b",
-      "name": "wsdfgh",
-      "email": "fghj@gmail.com",
-      "password": "1345678"
+      "password": "123456"
     }
   ]
 }

@@ -1,10 +1,8 @@
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
     margin: 0;
 }
-
 
 .blood-donor-form {
     background-color: white;
@@ -28,6 +26,7 @@ input[type="text"], select {
     border-radius: 5px;
     box-sizing: border-box;
 }
+
 button {
     background-color: #e74c3c;
     color: white;
@@ -43,9 +42,12 @@ button:hover {
     background-color: #c0392b;
 }
 
-
 .message {
     color: red;
+}
+
+.message.success {
+    color: green;
 }
 
 label {
@@ -53,7 +55,6 @@ label {
     text-align: left; 
     margin: 10px 0;
 }
-
 
 .gender-selection {
     text-align: left; 
